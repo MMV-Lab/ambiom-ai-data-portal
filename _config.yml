@@ -1,6 +1,6 @@
 title: "AMBIOM AI Data Portal"
 description: "Curated open datasets for AI in biology & microscopy"
-url: "https://mmv-lab.github.io/ambiom-ai-data-portal"
+url: "https://mmv-lab.github.io"
 baseurl: "/ambiom-ai-data-portal"
 
 remote_theme: filbertphang/miniscule
@@ -8,5 +8,7 @@ remote_theme: filbertphang/miniscule
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-feed
+
 miniscule:
   one_page_header: true
