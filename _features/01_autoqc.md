@@ -2,7 +2,7 @@
 title: "AutoQC: Benchmark for Automatic Quality Control in High-throughput Microscopy"
 ---
 
-![Screenshot](/assets/img/autoqc.png)
+![Screenshot]({{ '/assets/img/autoqc.png' | relative_url }})
 
 **What is AuotQC Benchmark:** The first comprehensive benchmark dataset for automated QC in microscopy, comprising over 8,000 brightfield microscopy images from high-throughput cell migration assays, with curated examples of five common image quality issues and reference annotations.
 
