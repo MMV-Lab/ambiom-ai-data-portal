@@ -3,6 +3,12 @@ description: "Curated open datasets for AI in biology & microscopy"
 url: "https://mmv-lab.github.io"
 baseurl: "/ambiom-ai-data-portal"
 
+author:
+  name: Jianxu Chen
+
+collections:
+  - features
+
 remote_theme: filbertphang/miniscule
 
 plugins:
@@ -12,3 +18,7 @@ plugins:
 
 miniscule:
   one_page_header: true
+  social_links:
+    twitter: jekyllrb
+    github:  "mmv-lab"
+    email: jianxu.chen@isas.de
