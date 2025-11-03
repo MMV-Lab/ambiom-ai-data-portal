@@ -2,7 +2,7 @@
 title: "Curated Timelapse Microscopy Images of Cells with Full Mask and Trajectory Annotations"
 ---
 
-![Screenshot](/assets/img/milliontrack.png)
+![Screenshot]({{ '/assets/img/milliontrack.png' | relative_url }})
 
 **What is tracking dataset about:** The largest (work-in-progress) 2D timelapse microscopy images of cells with comprehensive annotations of cell segmentation masks and trajectories. The dataset already includes data from established sources, such as Cell Tracking Competition, but with additional comprehensive annotations. 
 
